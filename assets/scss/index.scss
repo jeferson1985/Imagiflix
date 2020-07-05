@@ -1,0 +1,16 @@
+$color: blue;
+
+body {
+    background: $color;
+}
+@import 'reset';
+@import 'variables';
+@import 'global';
+@import 'componentes';
+@import 'header';
+@import 'poster';
+@import 'movies';
+@import 'footer';
+
+
+
